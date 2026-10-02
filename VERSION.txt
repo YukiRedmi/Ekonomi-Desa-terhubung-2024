@@ -1,0 +1,5 @@
+Lanskap Konektivitas Wilayah Indonesia
+Release: 2026-10-03
+Status: FINAL
+Header: land-focused panoramic crop
+Scope: dashboard, report, and IEEE-aligned project package
